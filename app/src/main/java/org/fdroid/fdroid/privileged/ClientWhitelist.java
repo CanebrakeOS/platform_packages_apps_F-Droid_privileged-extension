@@ -39,7 +39,7 @@ public class ClientWhitelist {
             new Pair<>("org.fdroid.fdroid", "B919FFF979EAC18DF3E65C6D2EBE63F393F11B4BAB344ADE255B2465F49836BC"), // sailfish releasekey
             new Pair<>("org.fdroid.fdroid", "1C3FBC736E9B7B09E309B8379FF954BF5BD9F95ED399741D7D1D3A42F8ADB757"), // sailfish platform (deprecated)
             new Pair<>("org.fdroid.fdroid", "12AB56E8D6411DC215448EAC69DFC21AB28164B79DBD3EADD1C70D6A70CD862A"), // taimen releasekey
-            new Pair<>("org.fdroid.fdroid", "7CF1C0DD717C52C6EB2B6430E140A586AC5E7652BF0F0D40F428302D735E4CC2")  // walleye releasekey
+            new Pair<>("org.fdroid.fdroid", "542E26DD2F205C8C00E429E8AABF69711D3DCC4A381AD311C543DE77E729C638")  // walleye releasekey
     ));
 
 }
