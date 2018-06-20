@@ -34,10 +34,10 @@ public class ClientWhitelist {
             // certificate SHA-256 of https//f-droid.org/FDroid.apk
             new Pair<>("org.fdroid.fdroid", "67760df25e94ae6c955d9e17ca1bc8e195da5d91d5a58023805ab3579463d1b8"), // legacy releasekey
             new Pair<>("org.fdroid.fdroid", "449391570558013f23a3cd06330bc4718b18b1d910f5161c3f68270d60d72904"), // legacy platform (deprecated)
-            new Pair<>("org.fdroid.fdroid", "6425C9DE6219056CCE62F73E7AD9F92C940B83BAC1D5516ABEBCE1D38F85E4CF"), // marlin releasekey
-            new Pair<>("org.fdroid.fdroid", "CC1E06EAD3E9CA2C4E46073172E92BAD4AFB02D4D21EDDC3F4D9A50C2FBD639D"), // marlin platform (deprecated)
-            new Pair<>("org.fdroid.fdroid", "B919FFF979EAC18DF3E65C6D2EBE63F393F11B4BAB344ADE255B2465F49836BC"), // sailfish releasekey
-            new Pair<>("org.fdroid.fdroid", "1C3FBC736E9B7B09E309B8379FF954BF5BD9F95ED399741D7D1D3A42F8ADB757"), // sailfish platform (deprecated)
+            new Pair<>("org.fdroid.fdroid", "E45CBB9EA4FC706403BF0EA1C077A3051CAEB1AE327A3154195F32E9CC496597"), // marlin releasekey
+            new Pair<>("org.fdroid.fdroid", "A9612638C9CE3F8EAB94B147F64FCBF09F042A8C4C78CF0CEDF905B71F4AB010"), // marlin platform (deprecated)
+            new Pair<>("org.fdroid.fdroid", "DB4D61574BABBE726D8BD40B97D04FF983887A3F657D0A8BFD57CFDC1479F0E4"), // sailfish releasekey
+            new Pair<>("org.fdroid.fdroid", "82D3A2413ECA3E0CA5086C9715424847C8D81C41098D7D40E066B093058B96FB"), // sailfish platform (deprecated)
             new Pair<>("org.fdroid.fdroid", "D001133A0037AD10CEDD5A3B34BB012A0F43F4F435C26B4CB53E1AEED7F2C0F5"), // taimen releasekey
             new Pair<>("org.fdroid.fdroid", "542E26DD2F205C8C00E429E8AABF69711D3DCC4A381AD311C543DE77E729C638")  // walleye releasekey
     ));
